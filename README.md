@@ -10,16 +10,19 @@ Main flaw was the high COM. Made the thing tip over when it hit something/or rod
 
 safety stuff was also implemented but that's boring.
 
+Here's a picture of it zoomzoomin:
+
+<img width="453" height="644" alt="image" src="https://github.com/user-attachments/assets/36085806-bff8-42ba-8843-fe98480cef17" />
 
 here's a picture of the cad model:
+
 <img width="915" height="662" alt="image" src="https://github.com/user-attachments/assets/c11d581a-e3f3-4e11-8bdd-6bbfff57597d" />
 
 
-Here's the actual thing:
+Here's the official weigh-in of the beast:
+
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/19ac0008-fb1f-4c60-bea8-3e421498c009" />
 
-Here's a picture of it zoomzoomin:
-<img width="453" height="644" alt="image" src="https://github.com/user-attachments/assets/36085806-bff8-42ba-8843-fe98480cef17" />
 
 I wish i had a video of the thing but i don't know how to put that in so trust me bro.
 
