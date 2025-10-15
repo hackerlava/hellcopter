@@ -2,13 +2,26 @@
 Battlebots thing that I did with logan.
 
 We made a jank battlebots with a 150gram weight limit. It was controlled by BLE because we were poor and didn't wanna buy a radio controller. It worked pretty well.
-A python scripted connected to the ESP32 and sent continuous simple commands such as: forward, backward, left, right, weapon, and boost. 
+A python scripted connected to the ESP32 via Bluetooth and sent continuous simple commands such as: forward, backward, left, right, weapon, and boost. 
 This made full use of the BLE byte limit.
 
 Moment of intertia compensation was also implemented because turning on/off the weapon motor made the thing turn left/right and made the whole thing unstable. that worked well.
 Main flaw was the high COM. Made the thing tip over when it hit something/or rode on a bumpy surface.
 
 safety stuff was also implemented but that's boring.
+
+
+here's a picture of the cad model:
+<img width="915" height="662" alt="image" src="https://github.com/user-attachments/assets/c11d581a-e3f3-4e11-8bdd-6bbfff57597d" />
+
+
+Here's the actual thing:
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/19ac0008-fb1f-4c60-bea8-3e421498c009" />
+
+Here's a picture of it zoomzoomin:
+<img width="453" height="644" alt="image" src="https://github.com/user-attachments/assets/36085806-bff8-42ba-8843-fe98480cef17" />
+
+I wish i had a video of the thing but i don't know how to put that in so trust me bro.
 
 Hardware description with cost
 
@@ -27,16 +40,6 @@ Hardware description with cost
 
 
 
-
-here's a picture of the cad model:
-<img width="915" height="662" alt="image" src="https://github.com/user-attachments/assets/c11d581a-e3f3-4e11-8bdd-6bbfff57597d" />
-
-
-Here's the actual thing:
-<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/19ac0008-fb1f-4c60-bea8-3e421498c009" />
-
-
-I wish i had a video of the thing but i don't know how to put that in so trust me bro.
 
 
 
